@@ -24,3 +24,5 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 gem 'rb-readline'
+source 'https://rubygems.org'
+gem "heroku-api", "0.3.18" #追記
